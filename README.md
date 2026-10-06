@@ -582,52 +582,6 @@ tonoeasy/
     └── configuration
 ```
 
-The production system may use separate deployments or subdomains for each portal.
-
----
-
-# Screenshots
-
-## Customer Marketplace
-
-_Add screenshot here_
-
-```markdown
-![TonoEasy Customer Marketplace](screenshots/customer-home.png)
-```
-
-## Store Dashboard
-
-_Add screenshot here_
-
-```markdown
-![TonoEasy Store Dashboard](screenshots/store-dashboard.png)
-```
-
-## Rider Dashboard
-
-_Add screenshot here_
-
-```markdown
-![TonoEasy Rider Dashboard](screenshots/rider-dashboard.png)
-```
-
-## Delivery Tracking
-
-_Add screenshot here_
-
-```markdown
-![TonoEasy Delivery Tracking](screenshots/delivery-tracking.png)
-```
-
-## Admin Dashboard
-
-_Add screenshot here_
-
-```markdown
-![TonoEasy Admin Dashboard](screenshots/admin-dashboard.png)
-```
-
 ---
 
 # Demo
@@ -739,4 +693,4 @@ For collaboration, project enquiries, or a demonstration of the full TonoEasy pl
 
 ---
 
-⭐ If you are viewing this project as part of my development portfolio, feel free to explore the available screenshots, documentation, and public platform links.
+If you are viewing this project as part of my development portfolio, feel free to explore the available screenshots, documentation, and public platform links.
