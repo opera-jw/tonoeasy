@@ -36,6 +36,10 @@ Instead of customers having to interact separately with stores, riders, and paym
 
 Customers can create and manage accounts on the marketplace.
 
+<p align="center">
+  <img src="register.png" width="400" height="500" alt="TonoEasy Consumer Registeration page">
+</p>
+
 Features include:
 
 - Customer registration
@@ -51,6 +55,10 @@ Features include:
 # Product Marketplace
 
 Customers can browse products available from participating stores.
+
+<p align="center">
+  <img src="shop.png" width="400" height="500" alt="TonoEasy Consumer Product's Shop">
+</p>
 
 The marketplace supports:
 
@@ -73,6 +81,10 @@ The marketplace supports:
 
 TonoEasy includes location-aware functionality designed to make it easier for customers to find relevant stores.
 
+<p align="center">
+  <img src="nearme.png" width="400" height="500" alt="TonoEasy Consumer Nearme Stores">
+</p>
+
 Customers can:
 
 - Discover stores near their location
@@ -88,6 +100,10 @@ Location functionality also supports the delivery process after an order is plac
 # Shopping Cart
 
 Customers can add products from the marketplace to their shopping cart.
+
+<p align="center">
+  <img src="cart.png" width="400" height="500" alt="TonoEasy Consumer Order Cart">
+</p>
 
 Cart functionality includes:
 
@@ -107,6 +123,9 @@ Customers must be authenticated before completing checkout.
 
 The checkout process collects the information required to complete an order.
 
+<p align="center">
+  <img src="checkout.png" width="400" height="500" alt="TonoEasy Consumer Checkout Page">
+</p>
 Customers can:
 
 - Review selected products
@@ -123,6 +142,10 @@ Customers can:
 
 The marketplace supports multiple payment methods.
 
+<p align="center">
+  <img src="payment.png" width="400" height="500" alt="TonoEasy Consumer Payment Process">
+</p>
+
 These include:
 
 - Pay on Delivery
@@ -134,6 +157,10 @@ The payment architecture is designed to support additional payment options as th
 ---
 
 # Promotional Codes
+
+<p align="center">
+  <img src="code.png" width="400" height="500" alt="TonoEasy Consumer Promo Code">
+</p>
 
 Customers can benefit from store and marketplace promotions.
 
@@ -153,6 +180,10 @@ The marketplace is designed to support products from multiple stores.
 
 A customer can interact with products from different vendors while the platform handles the store-specific fulfilment process behind the scenes.
 
+<p align="center">
+  <img src="multistores.png" width="400" height="500" alt="TonoEasy Consumer multi store order">
+</p>
+
 The system can manage:
 
 - Products belonging to different stores
@@ -166,6 +197,10 @@ The system can manage:
 # Order Management
 
 Customers can view and follow their orders from placement through delivery.
+
+<p align="center">
+  <img src="odprocess.png" width="400" height="500" alt="TonoEasy Consumer Order Process">
+</p>
 
 A typical order progresses through stages such as:
 
@@ -203,6 +238,10 @@ Cancellation rules help prevent orders from being cancelled after a rider has al
 
 Once a rider collects an order, customers can access delivery tracking functionality.
 
+<p align="center">
+  <img src="track.png" width="400" height="500" alt="TonoEasy Consumer Order Tracking">
+</p>
+
 The tracking system can display:
 
 - Store location
@@ -221,6 +260,10 @@ Customers can leave reviews for products they have purchased.
 
 Reviews are associated with actual order items, helping ensure that feedback comes from customers who interacted with the product through the marketplace.
 
+<p align="center">
+  <img src="reviews.png" width="400" height="500" alt="TonoEasy Consumer Order Reviews">
+</p>
+
 The review system can support:
 
 - Ratings
@@ -233,6 +276,10 @@ The review system can support:
 # Notifications
 
 Customers receive notifications about important activities.
+
+<p align="center">
+  <img src="notice.png" width="400" height="500" alt="TonoEasy Consumer Order Notificaitons">
+</p>
 
 Examples include:
 
@@ -404,194 +451,3 @@ Advertisements
 Referrals
 Delivery Information
 ```
-
----
-
-# Screenshots
-
-Create a `screenshots` folder inside the repository.
-
-Recommended screenshots:
-
-```text
-screenshots/
-├── 01-homepage.png
-├── 02-product-listing.png
-├── 03-product-details.png
-├── 04-store-page.png
-├── 05-shopping-cart.png
-├── 06-checkout.png
-├── 07-order-confirmation.png
-├── 08-my-orders.png
-├── 09-order-details.png
-├── 10-delivery-tracking.png
-└── 11-mobile-view.png
-```
-
-Then display them in the README using:
-
-```markdown
-![TonoEasy Marketplace Homepage](screenshots/01-homepage.png)
-```
-
----
-
-# Suggested Portfolio Screenshots
-
-## Marketplace Homepage
-
-![TonoEasy Marketplace Homepage](screenshots/01-homepage.png)
-
-_A customer-facing marketplace for discovering products and participating stores._
-
----
-
-## Product Details
-
-![Product Details](screenshots/03-product-details.png)
-
-_Detailed product information, images, pricing, ratings and purchasing options._
-
----
-
-## Shopping Cart
-
-![Shopping Cart](screenshots/05-shopping-cart.png)
-
-_Cart management with product quantities, pricing and checkout access._
-
----
-
-## Checkout
-
-![Checkout](screenshots/06-checkout.png)
-
-_Checkout workflow for customer information, delivery options, promotions and payment._
-
----
-
-## Order Tracking
-
-![Order Tracking](screenshots/10-delivery-tracking.png)
-
-_Delivery progress and rider tracking after order pickup._
-
----
-
-# Security Considerations
-
-Sensitive production information is not included in this repository.
-
-The following should never be committed publicly:
-
-```text
-Database credentials
-API secret keys
-Paystack secret keys
-Customer passwords
-Customer phone numbers
-Customer addresses
-Production database backups
-Private configuration files
-.env files
-Authentication tokens
-```
-
-Example or placeholder credentials should be used in public code samples.
-
----
-
-# My Role
-
-I developed the Consumer Marketplace as part of the wider TonoEasy platform.
-
-My responsibilities included:
-
-- Frontend development
-- Backend development
-- Customer authentication
-- Database integration
-- Product marketplace development
-- Search and filtering
-- Shopping cart functionality
-- Checkout development
-- Order processing
-- Payment integration
-- Promotion functionality
-- Customer order management
-- Delivery tracking integration
-- Product reviews
-- Notifications
-- Geolocation functionality
-- Responsive design
-- Progressive Web App functionality
-- Testing
-- Debugging
-- Deployment
-- Continuous improvement
-
----
-
-# Skills Demonstrated
-
-This project demonstrates experience in:
-
-- Full-stack web development
-- PHP development
-- MySQL database development
-- E-commerce development
-- Multi-vendor marketplaces
-- Shopping cart systems
-- Checkout workflows
-- Payment gateway integration
-- Location-aware applications
-- Order management
-- Delivery tracking
-- AJAX
-- Responsive design
-- Progressive Web Applications
-- Business workflow development
-
----
-
-# Live Demo
-
-### TonoEasy Consumer Marketplace
-
-**https://main.envirofitlpg.org**
-
-> Some features require customer authentication.
-
----
-
-# Repository Purpose
-
-This repository is intended primarily as a **portfolio and project documentation repository**.
-
-The complete TonoEasy production application, production database, credentials, confidential business logic, and customer information are not publicly distributed.
-
-Selected code samples, screenshots, documentation, and demonstrations may be included to demonstrate the technical work behind the platform.
-
----
-
-# Developer
-
-### Benjamin Justice Arthur Tandoh
-
-**Full-Stack Web Developer**
-
-**Opera Media Solutions**
-
----
-
-## Project Status
-
-**Active Development**
-
-The TonoEasy Consumer Marketplace continues to receive improvements and additional functionality as the overall platform evolves.
-
----
-
-⭐ **Portfolio Project**
-
-If you are viewing this repository as part of my development portfolio, explore the screenshots and live marketplace to see the customer experience in action.
