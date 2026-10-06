@@ -13,7 +13,7 @@ The platform allows customers to discover products from multiple stores, find st
 It was developed as a responsive web application designed to work across desktop, tablet, and mobile devices.
 
 <p align="center">
-  <img src="../1.png" width="850" alt="TonoEasy Consumer Marketplace Homepage">
+  <img src="consumer/1.png" width="850" alt="TonoEasy Consumer Marketplace Homepage">
 </p>
 
 ### Live Platform
@@ -37,7 +37,7 @@ Instead of customers having to interact separately with stores, riders, and paym
 Customers can create and manage accounts on the marketplace.
 
 <p align="center">
-  <img src="register.png" width="400" height="500" alt="TonoEasy Consumer Registeration page">
+  <img src="consumer/register.png" width="400" height="500" alt="TonoEasy Consumer Registeration page">
 </p>
 
 Features include:
@@ -57,7 +57,7 @@ Features include:
 Customers can browse products available from participating stores.
 
 <p align="center">
-  <img src="shop.png" width="400" height="500" alt="TonoEasy Consumer Product's Shop">
+  <img src="consumer/shop.png" width="400" height="500" alt="TonoEasy Consumer Product's Shop">
 </p>
 
 The marketplace supports:
@@ -82,7 +82,7 @@ The marketplace supports:
 TonoEasy includes location-aware functionality designed to make it easier for customers to find relevant stores.
 
 <p align="center">
-  <img src="nearme.png" width="400" height="500" alt="TonoEasy Consumer Nearme Stores">
+  <img src="consumer/nearme.png" width="400" height="500" alt="TonoEasy Consumer Nearme Stores">
 </p>
 
 Customers can:
@@ -102,7 +102,7 @@ Location functionality also supports the delivery process after an order is plac
 Customers can add products from the marketplace to their shopping cart.
 
 <p align="center">
-  <img src="cart.png" width="400" height="500" alt="TonoEasy Consumer Order Cart">
+  <img src="consumer/cart.png" width="400" height="500" alt="TonoEasy Consumer Order Cart">
 </p>
 
 Cart functionality includes:
@@ -124,7 +124,7 @@ Customers must be authenticated before completing checkout.
 The checkout process collects the information required to complete an order.
 
 <p align="center">
-  <img src="checkout.png" width="400" height="500" alt="TonoEasy Consumer Checkout Page">
+  <img src="consumer/checkout.png" width="400" height="500" alt="TonoEasy Consumer Checkout Page">
 </p>
 Customers can:
 
@@ -143,7 +143,7 @@ Customers can:
 The marketplace supports multiple payment methods.
 
 <p align="center">
-  <img src="payment.png" width="400" height="500" alt="TonoEasy Consumer Payment Process">
+  <img src="consumer/payment.png" width="400" height="500" alt="TonoEasy Consumer Payment Process">
 </p>
 
 These include:
@@ -159,7 +159,7 @@ The payment architecture is designed to support additional payment options as th
 # Promotional Codes
 
 <p align="center">
-  <img src="code.png" width="400" height="500" alt="TonoEasy Consumer Promo Code">
+  <img src="consumer/code.png" width="400" height="500" alt="TonoEasy Consumer Promo Code">
 </p>
 
 Customers can benefit from store and marketplace promotions.
@@ -181,7 +181,7 @@ The marketplace is designed to support products from multiple stores.
 A customer can interact with products from different vendors while the platform handles the store-specific fulfilment process behind the scenes.
 
 <p align="center">
-  <img src="multistores.png" width="400" height="500" alt="TonoEasy Consumer multi store order">
+  <img src="consumer/multistores.png" width="400" height="500" alt="TonoEasy Consumer multi store order">
 </p>
 
 The system can manage:
@@ -199,7 +199,7 @@ The system can manage:
 Customers can view and follow their orders from placement through delivery.
 
 <p align="center">
-  <img src="odprocess.png" width="400" height="500" alt="TonoEasy Consumer Order Process">
+  <img src="consumer/odprocess.png" width="400" height="500" alt="TonoEasy Consumer Order Process">
 </p>
 
 A typical order progresses through stages such as:
@@ -239,7 +239,7 @@ Cancellation rules help prevent orders from being cancelled after a rider has al
 Once a rider collects an order, customers can access delivery tracking functionality.
 
 <p align="center">
-  <img src="track.png" width="400" height="500" alt="TonoEasy Consumer Order Tracking">
+  <img src="consumer/track.png" width="400" height="500" alt="TonoEasy Consumer Order Tracking">
 </p>
 
 The tracking system can display:
@@ -261,7 +261,7 @@ Customers can leave reviews for products they have purchased.
 Reviews are associated with actual order items, helping ensure that feedback comes from customers who interacted with the product through the marketplace.
 
 <p align="center">
-  <img src="reviews.png" width="400" height="500" alt="TonoEasy Consumer Order Reviews">
+  <img src="consumer/reviews.png" width="400" height="500" alt="TonoEasy Consumer Order Reviews">
 </p>
 
 The review system can support:
@@ -278,7 +278,7 @@ The review system can support:
 Customers receive notifications about important activities.
 
 <p align="center">
-  <img src="notice.png" width="400" height="500" alt="TonoEasy Consumer Order Notificaitons">
+  <img src="consumer/notice.png" width="400" height="500" alt="TonoEasy Consumer Order Notificaitons">
 </p>
 
 Examples include:
