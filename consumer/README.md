@@ -13,7 +13,7 @@ The platform allows customers to discover products from multiple stores, find st
 It was developed as a responsive web application designed to work across desktop, tablet, and mobile devices.
 
 <p align="center">
-  <img src="1.png" width="850" alt="TonoEasy Consumer Marketplace Homepage">
+  <img src="../1.png" width="850" alt="TonoEasy Consumer Marketplace Homepage">
 </p>
 
 ### Live Platform
